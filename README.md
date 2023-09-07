@@ -24,6 +24,8 @@
 
 [Series: Writing a JVM in Rust](https://andreabergia.com/series/writing-a-jvm-in-rust/)
 
+[CPU](https://cpu.land/)
+
 # Node.JS
 
 [聊聊 Node.js 的 Stream 和 Buffer（含highWaterMark、背压、宽字符乱码问题）](https://zhuanlan.zhihu.com/p/398967492)
