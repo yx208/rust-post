@@ -1,4 +1,9 @@
 
+
+# Blog
+
+[cjting](https://cjting.me/)
+
 # Rust
 
 ## 生命周期
