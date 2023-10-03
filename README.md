@@ -34,3 +34,5 @@
 
 [学习基础的音频知识 lightnote](https://www.lightnote.co/)
 
+[音频可视化：采样、频率和傅里叶变换](https://cjting.me/2021/08/07/fourier-transform-and-audio-visualization/)
+
