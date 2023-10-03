@@ -32,5 +32,5 @@
 
 ## 音乐
 
-[Lightnote](https://www.lightnote.co/)
+[学习基础的音频知识 lightnote](https://www.lightnote.co/)
 
