@@ -11,10 +11,13 @@
 
 [Minimizing Rust Binary Size](https://github.com/johnthagen/min-sized-rust)
 
-## Linux 网络
+## 网络
 
 [Linux 虚拟网络设备](https://morven.life/posts/networking-2-virtual-devices/)
 
+[tinyTorrent: 从头写一个 Deno 的 BitTorrent 下载器](https://cjting.me/2020/10/31/tinytorrent-a-deno-bt-downloader/)
+
+[Building a BitTorrent client from the ground up in Go](https://blog.jse.li/posts/torrent/)
 
 ## 一些 Nice 的博客
 
