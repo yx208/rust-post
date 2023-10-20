@@ -4,6 +4,8 @@
 
 [cjting](https://cjting.me/)
 
+[vivaxyblog](https://vivaxyblog.github.io/)
+
 # Rust
 
 ## 生命周期
