@@ -6,6 +6,8 @@
 
 [vivaxyblog](https://vivaxyblog.github.io/)
 
+[Morven's Life](https://morven.life/)
+
 # Rust
 
 ## 生命周期
@@ -25,10 +27,6 @@
 [tinyTorrent: 从头写一个 Deno 的 BitTorrent 下载器](https://cjting.me/2020/10/31/tinytorrent-a-deno-bt-downloader/)
 
 [Building a BitTorrent client from the ground up in Go](https://blog.jse.li/posts/torrent/)
-
-## 一些 Nice 的博客
-
-[Morven's Life](https://morven.life/)
 
 ## 底层实现
 
