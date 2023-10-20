@@ -8,8 +8,6 @@
 
 [Morven's Life](https://morven.life/)
 
-# Rust
-
 ## 生命周期
 
 [Rust高阶生命周期绑定](https://xiaopengli89.github.io/posts/rust-hrtbs/)
@@ -33,6 +31,8 @@
 [Series: Writing a JVM in Rust](https://andreabergia.com/series/writing-a-jvm-in-rust/)
 
 [CPU](https://cpu.land/)
+
+[Writing an OS in Rust](https://os.phil-opp.com/)
 
 ## Node.JS
 
