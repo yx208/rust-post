@@ -8,6 +8,8 @@
 
 [Morven's Life](https://morven.life/)
 
+[https://www.myway5.com/](https://www.myway5.com/)
+
 ## 生命周期
 
 [Rust高阶生命周期绑定](https://xiaopengli89.github.io/posts/rust-hrtbs/)
@@ -43,4 +45,10 @@
 [学习基础的音频知识 lightnote](https://www.lightnote.co/)
 
 [音频可视化：采样、频率和傅里叶变换](https://cjting.me/2021/08/07/fourier-transform-and-audio-visualization/)
+
+## PNG
+
+[png格式分析与压缩原理](https://www.myway5.com/index.php/2017/11/10/png/)
+
+[浅析png-filter](https://cn-sec.com/archives/1173257.html)
 
