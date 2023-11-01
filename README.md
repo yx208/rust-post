@@ -52,3 +52,11 @@
 
 [浅析png-filter](https://cn-sec.com/archives/1173257.html)
 
+[认识PNG（一）](https://www.cnblogs.com/daoyuly/articles/4364265.html)
+
+[音视频入门](https://www.ihubin.com/blog/audio-video-basic-catagory/)
+
+[便携式网络图形（PNG）规范（第二版）](https://www.jianshu.com/p/cbee46d3e800)
+
+[PNG编解码算法详解](https://zhuanlan.zhihu.com/p/196797277?utm_id=0)
+
