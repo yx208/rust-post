@@ -47,6 +47,7 @@
 [音频可视化：采样、频率和傅里叶变换](https://cjting.me/2021/08/07/fourier-transform-and-audio-visualization/)
 
 ## PNG
+[PNG file chunk inspector](https://www.nayuki.io/page/png-file-chunk-inspector)
 
 [png格式分析与压缩原理](https://www.myway5.com/index.php/2017/11/10/png/)
 
