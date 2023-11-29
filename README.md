@@ -66,3 +66,6 @@
 [Learn how to build a monorepo in Next.js](https://blog.logrocket.com/build-monorepo-next-js/)
 
 [Building a full-stack TypeScript application with Turborepo](https://blog.logrocket.com/build-full-stack-typescript-application-turborepo/)
+
+[Setup a Monorepo with Turborepo, Next.js, and Tailwind CSS](https://mrizkiaiman.medium.com/setup-a-monorepo-with-turborepo-next-js-and-tailwind-css-5cd751d34bc9)
+
