@@ -61,3 +61,8 @@
 
 [PNG编解码算法详解](https://zhuanlan.zhihu.com/p/196797277?utm_id=0)
 
+## Monorepo
+
+[Learn how to build a monorepo in Next.js](https://blog.logrocket.com/build-monorepo-next-js/)
+
+[Building a full-stack TypeScript application with Turborepo](https://blog.logrocket.com/build-full-stack-typescript-application-turborepo/)
