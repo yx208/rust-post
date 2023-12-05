@@ -69,3 +69,5 @@
 
 [Setup a Monorepo with Turborepo, Next.js, and Tailwind CSS](https://mrizkiaiman.medium.com/setup-a-monorepo-with-turborepo-next-js-and-tailwind-css-5cd751d34bc9)
 
+[构建工具tsup入门 1 ~ 4 部分](https://juejin.cn/post/7196960617197502522)
+
