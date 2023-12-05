@@ -71,3 +71,5 @@
 
 [构建工具tsup入门 1 ~ 4 部分](https://juejin.cn/post/7196960617197502522)
 
+[Monorepo 下的模块包设计实践](https://www.rustc.cloud/monorepo-pkg)
+
