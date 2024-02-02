@@ -42,6 +42,8 @@
 
 [Writing an OS in Rust](https://os.phil-opp.com/)
 
+[miniob](https://github.com/oceanbase/miniob)
+
 ## Node.JS
 
 [聊聊 Node.js 的 Stream 和 Buffer（含highWaterMark、背压、宽字符乱码问题）](https://zhuanlan.zhihu.com/p/398967492)
