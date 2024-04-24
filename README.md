@@ -88,6 +88,8 @@
 
 [React+TypeScript 开发备忘录](https://github.com/typescript-cheatsheets/react)
 
+[Wasm 实现 React](https://github.com/ParadeTo/big-react-wasm)
+
 ## Infrastructure
 
 [k8s_PaaS](https://github.com/ben1234560/k8s_PaaS?tab=readme-ov-file)
