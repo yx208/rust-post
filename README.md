@@ -16,15 +16,17 @@
 
 [DanAbramov](https://overreacted.io/)
 
-## Rust Life cycle
+## Rust Life-cycle
 
 [Rust高阶生命周期绑定](https://xiaopengli89.github.io/posts/rust-hrtbs/)
 
 [Common Rust Lifetime Misconceptions](https://github.com/pretzelhammer/rust-blog/blob/master/posts/common-rust-lifetime-misconceptions.md/)
 
-## Build Rust
+## Rust project
 
 [Minimizing Rust Binary Size](https://github.com/johnthagen/min-sized-rust)
+
+[Building a Simple DB in Rust](https://johns.codes/blog/build-a-db/part01)
 
 ## Network
 
