@@ -56,7 +56,7 @@
 
 [音频可视化：采样、频率和傅里叶变换](https://cjting.me/2021/08/07/fourier-transform-and-audio-visualization/)
 
-## PNG
+## Image Processing
 
 [PNG file chunk inspector](https://www.nayuki.io/page/png-file-chunk-inspector)
 
@@ -71,6 +71,8 @@
 [便携式网络图形（PNG）规范（第二版）](https://www.jianshu.com/p/cbee46d3e800)
 
 [PNG编解码算法详解](https://zhuanlan.zhihu.com/p/196797277?utm_id=0)
+
+[Digital image compression: An overview](https://learningdaily.dev/digital-image-compression-an-overview-3de3d26d1cce)
 
 ## Monorepo
 
