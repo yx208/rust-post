@@ -16,6 +16,8 @@
 
 [DanAbramov](https://overreacted.io/)
 
+[Robby Pruzan](https://www.rob.directory/blog)
+
 ## Rust Life-cycle
 
 [Rust高阶生命周期绑定](https://xiaopengli89.github.io/posts/rust-hrtbs/)
