@@ -18,15 +18,17 @@
 
 [Robby Pruzan](https://www.rob.directory/blog)
 
-## Rust Life-cycle
+## Rust
 
 [Rust高阶生命周期绑定](https://xiaopengli89.github.io/posts/rust-hrtbs/)
 
 [Common Rust Lifetime Misconceptions](https://github.com/pretzelhammer/rust-blog/blob/master/posts/common-rust-lifetime-misconceptions.md/)
 
+[Minimizing Rust Binary Size](https://github.com/johnthagen/min-sized-rust)
+
 ## Rust project
 
-[Minimizing Rust Binary Size](https://github.com/johnthagen/min-sized-rust)
+[Implement React v18 from Scratch Using WASM and Rust](https://dev.to/paradeto)
 
 [Building a Simple DB in Rust](https://johns.codes/blog/build-a-db/part01)
 
