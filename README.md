@@ -100,6 +100,8 @@
 
 [Create a Component Library Fast](https://dev.to/receter/how-to-create-a-react-component-library-using-vites-library-mode-4lma)
 
+[Animated Modals with Framer Motion](https://fireship.io/lessons/framer-motion-modal/)
+
 ## Infrastructure
 
 [k8s_PaaS](https://github.com/ben1234560/k8s_PaaS?tab=readme-ov-file)
