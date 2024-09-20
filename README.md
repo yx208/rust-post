@@ -26,6 +26,8 @@
 
 [Minimizing Rust Binary Size](https://github.com/johnthagen/min-sized-rust)
 
+[如何理解 Sync 和 Send?](https://hexilee.me/2019/05/05/how-to-understand-sync-and-send-in-rust/)
+
 ## Rust project
 
 [Implement React v18 from Scratch Using WASM and Rust](https://dev.to/paradeto)
